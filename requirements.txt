@@ -3,4 +3,4 @@ numpy
 scikit-learn
 scipy
 matplotlib
-pickle5  # (Optional, only needed for older Python versions)
+pickle5
